@@ -3,6 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando  como Analista de Sistemas.
 - 🌱 Atualmente estou me aprendendo sobre programação nos cursos da Alura e o desafio do Oracle One.
+- 🇧🇷 Location: Brazil - SC
 - 📫 Como entrar em contato comigo: 
 - ### Contatos:
 
@@ -15,9 +16,13 @@
 <div>
     <a href="https://github.com/DaniGoularte">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniGoularte&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniGoularte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniGoularte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>🇧🇷 Location: Brazil - SP
     </div>
 
+### Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>    
+    
 ![image](https://user-images.githubusercontent.com/103947996/164011575-4ee0359a-45fc-4f5c-8451-5232c9c40b39.png)
 
   
