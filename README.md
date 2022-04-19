@@ -16,7 +16,6 @@
 <div>
     <a href="https://github.com/DaniGoularte">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniGoularte&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniGoularte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>🇧🇷 Location: Brazil - SP
     </div>
 
 ### Estou aprendendo
