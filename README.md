@@ -13,10 +13,6 @@
 <a href="https://www.linkedin.com/in/daniela-joao-goularte-6872b347/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-    <a href="https://github.com/DaniGoularte">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniGoularte&layout=compact&langs_count=7&theme=dracula"/>
-    </div>
 
 ### Estou aprendendo
 
