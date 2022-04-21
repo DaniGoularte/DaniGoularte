@@ -1,7 +1,7 @@
 ## Olá, me chamo Daniela!
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando  como Analista de Sistemas.
+- 🔭 Atualmente estou trabalhando como Analista de Sistemas.
 - 🌱 Atualmente estou me aprendendo sobre programação nos cursos da Alura e o desafio do Oracle One.
 - 🇧🇷 Location: Brazil - SC
 - 📫 Como entrar em contato comigo: 
