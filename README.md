@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando como Analista de Sistemas.
-- 🌱 Atualmente estou me atualizando sobre programação nos cursos da Alura e o desafio do Oracle One.
+- 🌱 Estou me aperfeiçõando ❤  sobre programação nos cursos da Alura.
 - 🇧🇷 Location: Brazil - SC
 - 📫 Como entrar em contato comigo: 
 - ### Contatos:
