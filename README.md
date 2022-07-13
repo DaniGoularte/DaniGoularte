@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando como Analista de Sistemas.
-- 🌱 Estou me aperfeiçõando ❤  sobre programação nos cursos da Alura.
+- 🌱 Estou me especializando sobre programação nos cursos da Alura.
 - 🇧🇷 Location: Brazil - SC
 - 📫 Como entrar em contato comigo: 
 - ### Contatos:
