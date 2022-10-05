@@ -6,8 +6,8 @@
  
  
 
-- 🔭 Atualmente trabalho como Analista de Sistemas.
-- 🌱 Estou estudando Front-end, UX e Design nos cursos da Alura.
+- 🔭 Atualmente trabalho como Desenvolvedora.
+- 🌱 Estou realizando alguns cursos da Alura para a área de programação e desenvolvimento.
 - 🎮 Gamer  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
 - 👨‍🎓 Pós Graduada Engenharia de Software
 - 🌍 Location: Brazil - SC
