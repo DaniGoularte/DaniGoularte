@@ -6,7 +6,7 @@
  
  
 
-- 🔭 Atualmente trabalho como Desenvolvedora.
+- 🔭 Atualmente estou em busca de oportunidades na área de tecnologia.
 - 🌱 Estou realizando alguns cursos da Alura para a área de programação e desenvolvimento.
 - 🎮 Gamer  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
 - 👨‍🎓 Pós Graduada Engenharia de Software
